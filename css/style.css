@@ -215,6 +215,9 @@ Media Query Responsive Design
         margin: auto;
         align-items: center;
     }
+    .course{
+        margin-right: 45px;
+    }
     .blog{
         padding: 0 10px;
     }
